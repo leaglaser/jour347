@@ -1,0 +1,39 @@
+body {
+  background-color:#D6DBDB;
+    font-family: 'Roboto' , sans-serif;
+}
+
+
+h1{
+  font-family: "Sixtyfour", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0;
+    color:purple;
+    padding: 20px;
+    text-align:center;
+}
+
+p {
+font-family: "Roboto", sans-serif;
+color: black;
+text-align: center;
+}
+
+h3 {
+font-family: "Roboto", sans-serif;
+color: purple;
+text-align: center;
+}
+
+
+
+
+.headbox {
+  background-color: lightgrey;
+padding: 10 0 10px 10px;
+margin: 0px 0 0px 0px;
+}
