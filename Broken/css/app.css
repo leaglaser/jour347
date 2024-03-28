@@ -1,0 +1,49 @@
+body {
+ font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.topHeader {
+height:20vh;
+background-color: #333333;
+}
+
+h1 {
+	font-weight:900;
+	color:white;
+	padding: 50px 0 20px 0;
+}
+
+.customCallout{
+background-color:#ff0000;
+font-size:1.25rem;
+color:#ffffff;	
+	font-weight:600;
+
+}
+
+.related {
+	background-color:#ff0000;
+	color:#ffffff;
+	font-weight:600;
+	text-align:center;
+}
+
+.footer {
+	text-align:center;
+	color:#FFFFFF;
+	background-color:#333333;
+	font-weight:600;
+}
+
+h4 {
+margin: 0 0 40px 0;
+margin: 0 0 0 125px;
+}
+
+p {
+	color: #5E6666;
+	font-size: 18px;
+}
+
