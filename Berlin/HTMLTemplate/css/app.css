@@ -1,0 +1,84 @@
+/* GLOBAL ARTICLE STYLES */
+
+body {
+
+}
+
+h1 {
+
+}
+
+p {
+
+}
+
+h6 {
+	padding: 20px 0 0 70px;
+}
+
+
+h2 {
+	padding: 22px 50px 30px 70px;
+}
+
+p {
+	padding: 22px 355px 0px 70px;
+}
+
+iframe {
+	padding: 0px 0 0 70px;
+   width: 70%;
+   height: 450px;
+}
+
+
+.navStyle {
+	background-color: #000;
+	color: #fff;
+	height: 50px;
+	padding: 12px;
+	text-align: center;
+}
+.navStyle a {
+	color: #f4f4f4;
+	text-decoration: none;
+}
+.navStyle a:hover {
+	color: #009cff;
+}
+.navItem {
+	margin: 0 25px 0 25px;
+}
+.bodyCopy {
+	padding: 0px 0 0 100px;
+}
+
+.callout {
+	align-content: right;
+	width: 350px;
+	height: 160px;
+	float: right;
+	margin: 0 50px 0 10px;
+	background-color: #f4f4f4;
+}
+
+.footerStyle {
+	background-color: #009cff;
+	color: #fff;
+	height: 50px;
+	text-align: right;
+	margin-top: 50px;
+	padding: 0 0 65px 40px;
+}
+.rtt {
+	text-align: center;
+	margin-top: 50px;
+}
+.rtt a {
+	color: #009cff;
+	text-decoration: none;
+	font-weight: bold;
+}
+.rtt a:hover {
+	color: #09639c;
+}
