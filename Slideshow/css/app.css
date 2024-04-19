@@ -1,0 +1,37 @@
+
+
+
+
+.header {
+	text-align: center;
+}
+
+h1 {
+	padding: 15px 0 20px;
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  border: 10px;
+  border-style: solid;
+  border-color: #2387EC;
+  text-shadow: 0 0 1.5px #2387EC, 0 0 1.5px blue;
+}
+
+
+
+
+.orbit {
+	margin: auto;
+	width: 50%;
+	padding: 20px;
+}
+
+p {
+	padding: 10px 120px 0px 120px;
+	border-style: solid;
+	border-color: #2387EC;
+	display: inline-block;
+	border: 1px blue;
+	background-color: #2387EC;
+	color: white;
+}
